@@ -1,11 +1,11 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
-date: "`r Sys.Date()`"
+  - name: "Emeline Derycke" 
+date: ""
 output: distill::distill_article
 ---
 
 This section must bu include a short presentation of you.
-
+My name is Emeline Derycke. I'm in BAC2 biology. 
 - first name/surname, teacher’s name, class name and academic year
