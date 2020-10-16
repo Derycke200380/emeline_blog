@@ -6,6 +6,5 @@ date: ""
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
-My name is Emeline Derycke. I'm in BAC2 biology. 
-- first name/surname, teacher’s name, class name and academic year
+-I introduce myself. I'm Derycke Emeline.I study at the university in biology for one  year. I would like to work in research.
+bac2, English for science with Mme Van Lancker.
