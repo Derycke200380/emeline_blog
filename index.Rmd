@@ -1,9 +1,19 @@
 ---
-title: "Emeline's blog  "
+title: "Recent posts"
 site: distill::distill_website
 listing: posts
 ---
-
+  
+.  
+  
+# Front Page
+Hello this is my blog, have fun with it!
+  
+My blog has several sections (see navigation bar)
+--> Meal for the things I did during the month, the week
+--> Science posts for article who talking about heart diseases
+  
+  
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
 ```

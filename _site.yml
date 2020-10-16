@@ -1,14 +1,18 @@
-name: "blog-template"
-title: "emeline's Blog"
+name: "Eme-template"
+title: "Emeline's Blog"
 output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "M.E.A.L."
-      href: "posts/meal/index.html"
     - text: "About Me"
       href: "posts/about/index.html"
+    - text: "Sections"
+      menu:
+        - text: "M.E.A.L."
+          href: "posts/meal/index.html"
+        - text: "Science Posts"
+          href: heartdiseases-posts.html
     - icon: fab fa-github
       href: https://github.com/Derycke200380/emeline_blog.git
 base_url: Derycke200380.github.io/emeline_blog/

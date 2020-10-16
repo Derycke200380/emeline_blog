@@ -1,0 +1,22 @@
+---
+title: "Heart disease"
+description: |
+  waw premier article
+author:
+  - name: Emeline Derycke
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+preview: images/heartdisease.jpg
+#draft: TRUE
+bibliography: biblio/bacteria.bib
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/heartdisease.jpg)

@@ -2,8 +2,9 @@
 title: "About Me"
 author:
   - name: "Emeline Derycke" 
-date: ""
+date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
-.I introduce myself. I'm Derycke Emeline.I study at the university in biology for one  year. I would like to work in research.
-bac2, English for science with Mme Van Lancker
+My name is Emeline Derycke. I have been studying at the UMons in biology for one  whole year. I would like to work as a researcher.
+  
+BAB2, English for science, Mme Van Lancker.
