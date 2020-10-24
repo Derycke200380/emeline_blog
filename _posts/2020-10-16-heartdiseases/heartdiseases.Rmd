@@ -1,7 +1,7 @@
 ---
-title: "Heart disease"
+title: "Risk of heart complications after major surgery is higher than previously thought"
 description: |
-  waw premier article
+  My first article about heart diseases.
 author:
   - name: Emeline Derycke
 date: "`r Sys.Date()`"
@@ -19,4 +19,60 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
+
 ![](images/heartdisease.jpg)
+
+## General information 
+
+Source of the article: [link](https://www.sciencedaily.com/re  leases/2020/10/201014201017.html)
+  
+Date: 14/10/2020
+  
+Word count: 618
+
+## Vocabulary 
+| Word from the text  | Synonym/ definition in English                       | French translation           |
+| ------------------- | ---------------------------------------------------- | ---------------------------- |
+| to undergo          | to undergo surgery/ an operation                     | subir (une opération)        |
+| according           | by complying with                                    | selon                        |
+| likelihood          | syn : probability                                    | probabilité                  |
+| prior               | syn : anterior, preceding                            | antécédent                   |
+| stroke              | interruption of blood circulation in the brain       | accident vacsulaire cérébral |
+| spinal (surgery)    | syn : vertebral; cerebrospinal                       | rachidien, rachidienne       |
+| providing           | syn : furnishing, supplying                          | fournissant                  |
+| safer               | syn: surer, rsik-free                                | plus sûr                     |
+| heart failure       | syn : heart attack                                   | insuffisance cardiaque       |
+| critical care       | syn : intensive care                                 | soins intensifs              |
+| chest               | syn : thorax                                         | poitrine, thorax             |
+| to occur            | syn: to happen                                       | survenir, se produire        |
+| investigator(s)     | person conducting an investigation  syn : researcher | enquêteur(s)                 |
+| adverse             | syn : negative, unfavorable, bad                     | défavorable, indésirable     |
+| shape               | syn : form, condition                                | forme          
+
+## Analysis about the study 
+* Researches:
+
+University of basel, Switzerland (lead author: Dr Chirstian Puelacher
+
+* Published in? when:
+
+European Heart Journal (14 /10 /2020)
+
+* General topic:
+
+Higher risk of heart diseases than one would think after surgery
+
+* Procedure: what was examined:
+
+   + surgery can trigger heart disease
+   + heart disease goes unnoticed following to pain medication give after surgery
+
+* Conclusions:
+
+   + not postpone surgery
+   + but to pay attention to your lifestyle before the operation
+
+* Remaining questions:
+
+Nothing 

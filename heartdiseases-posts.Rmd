@@ -1,13 +1,8 @@
 ---
-title: "Heart diseases related posts:"
+title: "List of heart disease related posts:"
 site: distill::distill_website
-listing:
+listing: 
   posts:
     - 2020-10-16-heartdiseases
-  # - date-nom pour chaque nouveau post
+    - 2020-10-24-test
 ---
-
-```{r, echo = FALSE, eval = FALSE}
-#distill::create_post("my post") # use this fonction to create a new post
-```
-

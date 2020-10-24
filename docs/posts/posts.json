@@ -1,5 +1,37 @@
 [
   {
+    "path": "posts/2020-10-16-heartdiseases/",
+    "title": "Risk of heart complications after major surgery is higher than previously thought",
+    "description": "My first article about heart diseases.",
+    "author": [
+      {
+        "name": "Emeline Derycke",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-24",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": "posts/2020-10-16-heartdiseases/images/heartdisease.jpg",
+    "last_modified": "2020-10-24T19:37:15+02:00"
+  },
+  {
+    "path": "posts/2020-10-24-test/",
+    "title": "test",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Emeline Derycke",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-24",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-24T18:59:39+02:00"
+  },
+  {
     "path": "posts/about/",
     "title": "About Me",
     "description": {},
@@ -13,23 +45,6 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-10-24T14:08:04+02:00"
-  },
-  {
-    "path": "posts/2020-10-16-heartdiseases/",
-    "title": "Heart disease",
-    "description": "waw premier article",
-    "author": [
-      {
-        "name": "Emeline Derycke",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-16",
-    "categories": [
-      "English for Science"
-    ],
-    "preview": "posts/2020-10-16-heartdiseases/images/heartdisease.jpg",
-    "last_modified": "2020-10-16T13:33:58+02:00"
   },
   {
     "path": "posts/meal/",
