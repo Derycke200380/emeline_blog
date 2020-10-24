@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0063)http://localhost:8720/help/library/data.io/html/urchin_bio.html -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>R: Sea urchins biometry</title>
+
+<link rel="stylesheet" type="text/css" href="./R.css">
+<style>.rstudio-themes-flat.editor_dark{color:white;background:none;}.rstudio-themes-flat.editor_dark div#TOC{color:white !important;background:none !important;}.rstudio-themes-flat.editor_dark h1,.rstudio-themes-flat.editor_dark h2,.rstudio-themes-flat.editor_dark h3,.rstudio-themes-flat.editor_dark h4{color:white !important;background:none !important;border-color:#6a6a6a !important;}.rstudio-themes-flat.editor_dark table{color:white !important;background:none !important;}.rstudio-themes-flat.editor_dark.ace_editor_theme p,.rstudio-themes-flat.editor_dark.ace_editor_theme a,.rstudio-themes-dark.editor_dark.ace_editor_theme div{color:white !important;}.rstudio-themes-flat.editor_dark ::selection{background-color:#ccc;}.rstudio-themes-flat.rstudio-themes-dark.rstudio-themes-scrollbars::-webkit-scrollbar,.rstudio-themes-flat.rstudio-themes-dark.rstudio-themes-scrollbars ::-webkit-scrollbar{background:#fff;}.rstudio-themes-flat.rstudio-themes-dark.editor_dark.ace_editor_theme a.sourceLine{color:#a3a3a3 !important;}.rstudio-themes-flat.rstudio-themes-dark.editor_dark.ace_editor_theme h3+pre{color:#dedede;background:none;}.rstudio-themes-flat.rstudio-themes-dark.editor_dark.ace_editor_theme pre,.rstudio-themes-flat.rstudio-themes-dark.editor_dark.ace_editor_theme pre code{background-color:#333;color:#f7f7f7;}.rstudio-themes-flat.rstudio-themes-dark.editor_dark.ace_editor_theme p code{color:white !important;background:none;}.rstudio-themes-flat.rstudio-themes-dark.editor_dark.ace_editor_theme table thead,.rstudio-themes-flat.rstudio-themes-dark.editor_dark.ace_editor_theme table tr.even{background-color:#333 !important;border-color:#999 !important;}.rstudio-themes-flat.rstudio-themes-dark.editor_dark.ace_editor_theme table tr.odd{border-color:#999 !important;}.rstudio-themes-flat.rstudio-themes-dark.editor_dark.ace_editor_theme table th,.rstudio-themes-flat.rstudio-themes-dark.editor_dark.ace_editor_theme table td{border-color:#666 !important;}.rstudio-themes-flat.rstudio-themes-dark.editor_dark.ace_editor_theme blockquote{background-color:#333 !important;border-radius:3px;}.rstudio-themes-flat.rstudio-themes-dark.rstudio-themes-scrollbars::-webkit-scrollbar,.rstudio-themes-flat.rstudio-themes-dark.rstudio-themes-scrollbars ::-webkit-scrollbar{background:#fff;}.windows.rstudio-themes-flat.rstudio-themes-dark.rstudio-themes-scrollbars::-webkit-scrollbar,.windows.rstudio-themes-flat.rstudio-themes-dark.rstudio-themes-scrollbars ::-webkit-scrollbar{width:17px;height:17px;}.rstudio-themes-flat.rstudio-themes-dark.rstudio-themes-scrollbars::-webkit-scrollbar-thumb,.rstudio-themes-flat.rstudio-themes-dark.rstudio-themes-scrollbars ::-webkit-scrollbar-thumb{-webkit-border-radius:10px;background:rgb(78, 92, 104);border:solid 3px rgb(47, 57, 65);}.rstudio-themes-flat.rstudio-themes-dark.rstudio-themes-scrollbars::-webkit-scrollbar-track,.rstudio-themes-flat.rstudio-themes-dark.rstudio-themes-scrollbars ::-webkit-scrollbar-track,.rstudio-themes-flat.rstudio-themes-dark.rstudio-themes-scrollbars::-webkit-scrollbar-corner,.rstudio-themes-flat.rstudio-themes-dark.rstudio-themes-scrollbars ::-webkit-scrollbar-corner{background:rgb(47, 57, 65);}</style></head><body class="rstudio-themes-flat rstudio-themes-light-menus rstudio-themes-default ace_editor_theme macintosh" id="rstudio_container">
+
+<table width="100%" summary="page for urchin_bio {data.io}"><tbody><tr><td>urchin_bio {data.io}</td><td style="text-align: right;">R Documentation</td></tr></tbody></table>
+
+<h2>Sea urchins biometry</h2>
+
+<h3>Description</h3>
+
+<p>Various measurement on <em>Paracentrotus lividus</em> sea urchins providing from
+fishery (Brittany, France), or from a sea urchins farm in Normandy.
+</p>
+
+
+<h3>Usage</h3>
+
+<pre>urchin_bio
+</pre>
+
+
+<h3>Format</h3>
+
+<p>A data frame with 19 variables:
+</p>
+
+<dl>
+<dt><code>origin</code></dt><dd><p>A <strong>factor</strong> with two levels: <code>"Culture"</code>, and
+<code>"Fishery"</code>.</p>
+</dd>
+<dt><code>diameter1</code></dt><dd><p>Diameter (in mm) of the test measured at the ambitus
+(its widest part).</p>
+</dd>
+<dt><code>diameter2</code></dt><dd><p>A second diameter (in mm) measured at the ambitus,
+perpendicular to the first one. The idea here is to calculate the average
+of <code>diameter1</code> and <code>diameter2</code> in order to eliminate the effect of possible
+slight departure from a nearly circular ambitus.</p>
+</dd>
+<dt><code>height</code></dt><dd><p>The height of the test (in mm), measured from month to
+anus, thus, orthogonally to the two diameters.</p>
+</dd>
+<dt><code>buoyant_weight</code></dt><dd><p>Weight (in g) of the sea urchin immersed in
+seawater.</p>
+</dd>
+<dt><code>weight</code></dt><dd><p>Weight (in g) of the whole animal.</p>
+</dd>
+<dt><code>solid_parts</code></dt><dd><p>Weight (in g) of the animal after draining its
+coelomic fluid out of the test.</p>
+</dd>
+<dt><code>integuments</code></dt><dd><p>Weight (in g) of the sea urchin after taking out
+the whole content of the test (coelomic fluid, digestive tract and gonads.</p>
+</dd>
+<dt><code>dry_integuments</code></dt><dd><p>Dry weight (in g) of the integuments.</p>
+</dd>
+<dt><code>digestive_tract</code></dt><dd><p>Weight (in g) of the digestive tract,
+including its content.</p>
+</dd>
+<dt><code>dry_digestive_tract</code></dt><dd><p>Dry weight (in g) of the digestive tract
+and its content.</p>
+</dd>
+<dt><code>gonads</code></dt><dd><p>Weight (in g) of the gonads.</p>
+</dd>
+<dt><code>dry_gonads</code></dt><dd><p>Dry weight (in g) of the gonads.</p>
+</dd>
+<dt><code>skeleton</code></dt><dd><p>Weight of the skeleton (g), calculated as the sum of
+lantern + test + spines.</p>
+</dd>
+<dt><code>lantern</code></dt><dd><p>Dry weight (in g) of the lantern (the jaw and teeths of
+the sea urchin).</p>
+</dd>
+<dt><code>test</code></dt><dd><p>Dry weight (in g) of the calcareous part of the test.</p>
+</dd>
+<dt><code>spines</code></dt><dd><p>Dry weight (in g) of calcareous parts of the spines.</p>
+</dd>
+<dt><code>maturity</code></dt><dd><p>Gonads maturity index (integer), measured on a scale
+of 3 states: state 0 means the gonad is absent or spent, state 1 means it is
+growing but not mature, and state 2 means the gonad is mature. This should
+be treated as a circular variable, since the freproductive cycle is 0 -&gt; 1
+-&gt; 2 -&gt; 0 (spawning).</p>
+</dd>
+<dt><code>sex</code></dt><dd><p>When it is possible, the sex of the animal is determined by
+visual inspection of the gonads (<strong>factor</strong> with levels <code>"F"</code> and <code>"M"</code>).</p>
+</dd>
+</dl>
+
+<p>A stratified sample was performed to make sure all size classes (from 5 to 5
+mm in test diameter) from each sub-population are equally represented in the
+dataset. Hence, the size or weight-classes distributions among each
+population <strong>cannot</strong> be studied with this dataset. However, those data are
+more suitable to explore allometric relationships between body measurements
+and/or body parts of the sea urchins over the whole size range.
+</p>
+<p>For further details on the farming of these sea urchins, see
+<a href="https://www.researchgate.net/publication/280021206_Land-based_closed-cycle_echiniculture_of_Paracentrotus_lividus_Lamarck_Echinoidea_Echinodermata_A_long-term_experiment_at_a_pilot_scale" target="_blank">here</a>.</p>
+
+<hr><div style="text-align: center;">[Package <em>data.io</em> version 1.2.2 <a href="http://localhost:8720/help/library/data.io/html/00Index.html" onclick="window.parent.helpNavigate(this.href); return false">Index</a>]</div>
+<script type="text/javascript">
+if (window.parent.helpNavigated)
+   window.parent.helpNavigated(document, window);
+if (window.parent.helpKeydown)
+   window.onkeydown = function(e) {window.parent.helpKeydown(e);}
+</script>
+<link type="text/css" rel="stylesheet" id="rstudio-acethemes-linkelement" href="./tomorrow.rstheme"></body></html>
