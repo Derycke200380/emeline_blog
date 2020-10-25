@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## General information 
 
-Source of the article: [link](https://www.sciencedaily.com/re  leases/2020/10/201014201017.html)
+Source of the article: [link](https://www.sciencedaily.com/releases/2020/10/201014201017.htm)
   
 Date: 14/10/2020
   
