@@ -18,6 +18,7 @@ navbar:
 base_url: Derycke200380.github.io/emeline_blog/
 collections:
     posts:
+      disqus: emelines-blog
       share: [twitter, linkedin, facebook]
       #disqus: 
 output:
