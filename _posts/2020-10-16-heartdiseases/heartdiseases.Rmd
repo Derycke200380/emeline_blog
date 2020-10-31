@@ -1,5 +1,5 @@
 ---
-title: "Risk of heart complications after major surgery is higher than previously thought"
+title: " Article 1: Risk of heart complications after major surgery is higher than previously thought"
 description: |
   My first article about heart diseases.
 author:
