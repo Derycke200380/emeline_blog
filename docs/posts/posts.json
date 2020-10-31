@@ -34,6 +34,23 @@
     "last_modified": "2020-10-31T17:58:32+01:00"
   },
   {
+    "path": "posts/2020-10-31-mon-article/",
+    "title": "Article 3 : Spit in a tube to diagnose heart attack.",
+    "description": "Third article talking about detection of heart disease.",
+    "author": [
+      {
+        "name": "Emeline Derycke",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-31",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2020-10-31T19:37:24+01:00"
+  },
+  {
     "path": "posts/meal/",
     "title": "My English Activity Log : MEAL",
     "description": {},

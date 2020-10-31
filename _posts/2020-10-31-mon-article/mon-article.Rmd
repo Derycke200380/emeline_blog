@@ -1,0 +1,59 @@
+---
+title: "Article 3 : Spit in a tube to diagnose heart attack."
+description: |
+  Third article talking about detection of heart disease.
+author:
+  - name: Emeline Derycke
+date: 10-31-2020
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## General information 
+
+Source of the article:  [link](https://www.sciencedaily.com/releases/2020/08/200826083019.htm )
+  
+Date: 26/08/2020
+  
+Word count: 398
+
+## Vocabulary 
+| Word from the text  | Synonym/definition in English                                                                                         | french translation    |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| to spit             | syn: to spew                                                                                                          | cracher               |
+| track               | syn: trail                                                                                                            | la voie               |
+| to require          | syn: to ask                                                                                                           | exiger, demander      |
+| chest pain          | when you have trouble breathing                                                                                       | douleur à la poitrine |
+| the purpose         | syn: goal                                                                                                             | la but                |
+| sample              | a small quantity (of a commodity) that is shown to give an idea of the whole                                          | échantillon           |
+| the  processed      | a processing of personal data is an operation, or set of operations, on personal data, regardless of the process used | les données traitées  |
+
+## Analysis about the study 
+* Researches:
+Soroka University Medical Centre, Beer Sheva, IsraelIsrael. (lead author: Dr Westreich)
+
+* Published in? when:
+Science daily  (26/08/2020)
+
+* General topic:
+This article talks about a salivary test that could help us detect a heart attack and all this is done thanks to the detection of a protein called troponin. Moreover this test would ‘replace’ the blood test which is much further away.
+
+* Procedure: what was examined:
+First of all, the researchers took samples of saliva, people with heat damage and healthy people. One part of the sample will be processed and the other will not.
+The study showed that the treated saliva samples were positive for troponin. So this first test shows that there is troponin in the saliva.
+
+* Conclusions:
+
+The final goal is to create a prototype of a processed saliva test that will be more accurate than the blood test and it will be like pregnancy tests yes or no.
+
+* Remaining questions:
+
+Nothing
+
