@@ -17,6 +17,23 @@
     "last_modified": "2020-10-31T17:38:46+01:00"
   },
   {
+    "path": "posts/2020-10-24-test/",
+    "title": "Article 2 : Artificially sweetened drinks may not be heart healthier than sugary drinks",
+    "description": "Second article",
+    "author": [
+      {
+        "name": "Emeline Derycke",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-31",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2020-10-31T17:58:32+01:00"
+  },
+  {
     "path": "posts/meal/",
     "title": "My English Activity Log : MEAL",
     "description": {},
@@ -33,21 +50,6 @@
     ],
     "preview": {},
     "last_modified": "2020-10-31T17:49:46+01:00"
-  },
-  {
-    "path": "posts/2020-10-24-test/",
-    "title": "test",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Emeline Derycke",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-24",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-10-24T18:59:39+02:00"
   },
   {
     "path": "posts/about/",
