@@ -4,7 +4,6 @@ description: |
   Second article 
 author:
   - name: Emeline Derycke
-    url: {}
 date: "`r Sys.Date()`"
 categories:
   - "English for Science"

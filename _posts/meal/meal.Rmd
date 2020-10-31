@@ -8,5 +8,5 @@ categories:
   - "M.E.A.L."
 output: distill::distill_article
 ---
--Oct 11th: I worked a lot on my english excercises because I want to improve. Moreover I did some research on my topic 
+-Oct 11th: I worked a lot on my English exercises because I want to improve. Moreover I did some research on my topic 
 
