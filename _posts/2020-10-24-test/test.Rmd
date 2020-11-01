@@ -36,7 +36,7 @@ Word count : 392
 | labeling            | attach a label by tying it with string or sticking it on  | étiquetage         |
 
 ## Analysis about the study 
-* Researches:
+* Researchers:
 
 Université Sorbonne Paris Nord, Inserm, Inrae, Cnam (lead author : Eloi Chazelas, doctorant).
 
