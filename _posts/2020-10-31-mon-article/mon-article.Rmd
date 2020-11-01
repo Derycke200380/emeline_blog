@@ -37,15 +37,19 @@ Word count: 398
 
 ## Analysis about the study 
 * Researchers:
+
 Soroka University Medical Centre, Beer Sheva, IsraelIsrael. (lead author: Dr Westreich)
 
 * Published in? when:
+
 Science daily  (26/08/2020)
 
 * General topic:
+
 This article talks about a salivary test that could help us detect a heart attack and all this is done thanks to the detection of a protein called troponin. Moreover this test would ‘replace’ the blood test which is much further away.
 
 * Procedure: what was examined:
+
 First of all, the researchers took samples of saliva, people with heat damage and healthy people. One part of the sample will be processed and the other will not.
 The study showed that the treated saliva samples were positive for troponin. So this first test shows that there is troponin in the saliva.
 
