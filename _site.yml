@@ -14,7 +14,7 @@ navbar:
         - text: "Science Posts"
           href: heartdiseases-posts.html
     - icon: fab fa-github
-      href: https://github.com/Derycke200380/emeline_blog.git
+      href: http://github.com/Derycke200380/emeline_blog.git
 base_url: Derycke200380.github.io/emeline_blog/
 collections:
     posts:
