@@ -15,13 +15,13 @@ navbar:
           href: heartdiseases-posts.html
     - icon: fab fa-github
       href: https://github.com/Derycke200380/emeline_blog.git
-base_url: http://derycke200380.github.io/emeline_blog/
+base_url: https://derycke200380.github.io/emeline_blog/
 collections:
-    posts:
-      share: [twitter, linkedin, facebook]
-      disqus:
-        shortname: emelines-blog
-        hidden: false
+  posts:
+    share: [twitter, linkedin, facebook]
+    disqus:
+      shortname: emelines-blog
+      hidden: false
 output:
   distill::distill_article:
     css: style.css
