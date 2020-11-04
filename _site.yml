@@ -19,9 +19,7 @@ base_url: https://derycke200380.github.io/emeline_blog/
 collections:
   posts:
     share: [twitter, linkedin, facebook]
-    disqus:
-      shortname: emelines-blog
-      hidden: false
+    disqus: emelines-blog
 output:
   distill::distill_article:
     css: style.css
