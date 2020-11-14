@@ -10,3 +10,5 @@ output: distill::distill_article
 ---
 -Oct 11th: I worked a lot on my English exercises because I want to improve. Moreover I did some research on my topic 
 
+-Nov 15th : Since the last time I posted two other articles on my blog, the first one talks about sweetened drinks and artificial sweetened drinks and their actions on heart disease and the other one talks about how we could soon have a test as fast as a fat test to prevent heart attack. Then I watched some series in English  like Lucifer.
+
