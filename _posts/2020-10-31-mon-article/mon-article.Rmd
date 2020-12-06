@@ -46,16 +46,18 @@ Science daily  (26/08/2020)
 
 * General topic:
 
-This article talks about a salivary test that could help us detect a heart attack and all this is done thanks to the detection of a protein called troponin. Moreover this test would ‘replace’ the blood test which is much further away.
+ A salivary test could help us detect a heart attack. Thanks to the detection of a protein called troponin. 
 
 * Procedure: what was examined:
 
-First of all, the researchers took samples of saliva, people with heat damage and healthy people. One part of the sample will be processed and the other will not.
-The study showed that the treated saliva samples were positive for troponin. So this first test shows that there is troponin in the saliva.
-
+   + the researchers took samples of saliva, people with heat damage and healthy people
+   + one part of the sample will be processed and the other will not
+   + the treated saliva samples were positive for troponin. So  there is troponin in the saliva
+   
 * Conclusions:
 
-The final goal is to create a prototype of a processed saliva test that will be more accurate than the blood test and it will be like pregnancy tests yes or no.
+   + create a prototype of a processed saliva test
+   + more accurate than the blood test 
 
 * Remaining questions:
 
