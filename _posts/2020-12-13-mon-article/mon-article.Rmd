@@ -1,0 +1,84 @@
+---
+title: "Article 4 :New cardiac arrest resuscitation treatment demonstrated 100% success rate in cannulation "
+description: |
+  The fourth article talks about a new cardiac arrest resuscitation treatment. 
+author:
+  - name: Emeline Derycke
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## General information 
+
+Source of the article: 
+[link](https://www.sciencedaily.com/releases/2020/11/201113141802.htm)
+
+Date: 13/11/2020
+
+Word count : 542
+
+## Vocabulary 
+| Word from the text     | Synonym/Definition in English                                                                | French translation        |
+| ---------------------- | -------------------------------------------------------------------------------------------- | ------------------------- |
+| resuscitation          | action aimed at restoring vital functions that have been abolished or disrupted              | réanimation               |
+| cannulation            | is when tubes are placed in large veins ans arteries in the legs, neck or chest in a patient | canulation                |
+| care                   | to provide physical needs, or help                                                           | soins                     |
+| health                 | the general condition of body an mind                                                        | santé                     |
+| lauching               | syn: inauguration                                                                            | lancement                 |
+| to bring-bought-bought | to carry, convey, or take (something or someone) to a designated place or person             | apporter                  |
+| department             | syn: sector, section                                                                         | service                   |
+| community-wide         | the people living in one locality                                                            | à l'échelle communautaire |
+| successful             | having succeeded in one's endeavours                                                         | réussite                  |
+| flow                   | the blood flow                                                                               | flux                      |
+| toolkit                | syn: kit, set                                                                                | boîte à outils            |
+| to enroll              | syn: to sign up                                                                              | s'inscrire                |
+| safety                 | the quality of being safe                                                                    | sécurité                  |
+| to provide             | syn: to deliver                                                                              | fournir                   |
+| early                  | syn: first                                                                                   | début, premier            |
+| to plan                | syn: program                                                                                 | planifier                 |
+| remotely               | syn: at a distance                                                                           | à distance                |
+| the approach           | syn: procedure, access                                                                       | l'approche                |
+| to serve               | syn: to help, service                                                                        | desservir                 |
+| to broaden             | syn: to wide, enlarge                                                                        | élargir                   |
+
+## Analysis about the study 
+* Researchers:
+
+University of Minnesota. I didn't find the main author but the president of the MMRC is Jason Bartos.
+
+* Published in? when:
+
+EClinicalMedicine Journal (13/11/2020)
+
+* General topic:
+
+A new resuscitation treatment for sudden cardiac arrest outside the hospital.
+
+* Procedure: what was examined:
+
+   + launch of three SUVs that provide adequate medical equipment
+   + thanks to the equipment they can stabilize a patient in 30 minutes
+
+With regard to the study:
+
+   + a study on 63 patients
+   + 58 were treated by the team MMRC SUV
+   + of the 53, 46 patients are male
+   + 100% of patients could be cannulated without any problems
+
+* Conclusions:
+
+   + the goal was to improve survival from cardiac arrest
+   + new project: launch of a large mobile truck
+
+* Remaining questions:
+
+Nothing

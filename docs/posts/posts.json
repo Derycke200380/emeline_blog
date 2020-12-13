@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-12-13-mon-article/",
+    "title": "Article 4 :New cardiac arrest resuscitation treatment demonstrated 100% success rate in cannulation ",
+    "description": "The fourth article talks about a new cardiac arrest resuscitation treatment.",
+    "author": [
+      {
+        "name": "Emeline Derycke",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-13",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2020-12-13T10:54:49+01:00"
+  },
+  {
     "path": "posts/2020-10-24-test/",
     "title": "Article 2 : Artificially sweetened drinks may not be heart healthier than sugary drinks",
     "description": "Second article",
@@ -73,7 +90,7 @@
   {
     "path": "posts/2020-10-31-mon-article/",
     "title": "Article 3 : Spit in a tube to diagnose heart attack.",
-    "description": "Third article talking about detection of heart disease.",
+    "description": "Third article talks about detection of heart disease.",
     "author": [
       {
         "name": "Emeline Derycke",
@@ -85,7 +102,7 @@
       "English for Science"
     ],
     "preview": {},
-    "last_modified": "2020-12-06T12:00:53+01:00"
+    "last_modified": "2020-12-13T10:57:56+01:00"
   },
   {
     "path": "posts/about/",

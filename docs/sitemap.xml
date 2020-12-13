@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://derycke200380.github.io/emeline_blog/heartdiseases-posts.html</loc>
-    <lastmod>2020-10-31T18:54:59+01:00</lastmod>
+    <lastmod>2020-12-13T09:55:12+01:00</lastmod>
   </url>
   <url>
     <loc>https://derycke200380.github.io/emeline_blog/</loc>
     <lastmod>2020-10-24T19:41:34+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://derycke200380.github.io/emeline_blog/posts/2020-12-13-mon-article/</loc>
+    <lastmod>2020-12-13T10:54:49+01:00</lastmod>
   </url>
   <url>
     <loc>https://derycke200380.github.io/emeline_blog/posts/2020-10-24-test/</loc>
@@ -26,7 +30,7 @@
   </url>
   <url>
     <loc>https://derycke200380.github.io/emeline_blog/posts/2020-10-31-mon-article/</loc>
-    <lastmod>2020-12-06T12:00:53+01:00</lastmod>
+    <lastmod>2020-12-13T10:57:56+01:00</lastmod>
   </url>
   <url>
     <loc>https://derycke200380.github.io/emeline_blog/posts/about/</loc>
