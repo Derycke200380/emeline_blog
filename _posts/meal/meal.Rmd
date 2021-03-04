@@ -12,3 +12,5 @@ output: distill::distill_article
 
 -Nov 15th : Since the last time I posted two other articles on my blog, the first one talks about sweetened drinks and artificial sweetened drinks and their actions on heart disease and the other one talks about how we could soon have a test as fast as a fat test to prevent heart attack. Then I watched some series in English  like Lucifer.
 
+-Mars 4th : I haven't had time to post much on my blog lately because right now I'm working a lot for the school. On the weekends I'm going to walk to start finding plants for my herbarium as part of the plant systematics course.  
+
