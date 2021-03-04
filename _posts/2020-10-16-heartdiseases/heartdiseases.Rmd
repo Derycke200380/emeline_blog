@@ -4,7 +4,7 @@ description: |
   My first article about heart diseases.
 author:
   - name: Emeline Derycke
-date: "`r Sys.Date()`"
+date: 
 categories:
   - "English for Science"
 preview: images/heartdisease.jpg
