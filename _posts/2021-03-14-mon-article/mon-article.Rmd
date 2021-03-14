@@ -1,0 +1,91 @@
+---
+title: "Article 7: Accelerating gains in abdominal fat during menopause tied to heart disease risk."
+description: |
+  My seventh article talks about how increased fat during menopause can lead to heart disease risks .
+author:
+  - name: Emeline Derycke
+date: 03-14-2021
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## General information 
+
+Source of the article:  [link](https://www.sciencedaily.com/releases/2021/03/210303142436.htm )
+
+Date: 03/03/2021
+
+Word count: 648
+
+## Vocabulary 
+
+| Word from the text | Synonym/ Definition in English                                                                                                        | French translation          |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| to tie             | syn: to bind                                                                                                                          | lier                        |
+| even if            | syn: even though                                                                                                                      | même si                     |
+| steady             | syn: constant, regular                                                                                                                | stable                      |
+| to collect         | syn: to gather                                                                                                                        | recueillir, collecter       |
+| care               | careful or serious attention                                                                                                          | soin(s)                     |
+| midlife            | syn: middle age, forty                                                                                                                | age moyen                   |
+| early              | syn: premature                                                                                                                        | précoce                     |
+| beyond             | syn: over and above                                                                                                                   | au-delà de                  |
+| widely             | having a great extent from side to side                                                                                               | largement                   |
+| to shift           | syn: to switch, to change                                                                                                             | changer                     |
+| typically          | syn: usually, generally                                                                                                               | généralement, typiquement   |
+| CT scan            | syn: scan                                                                                                                             | tomodensitométrie           |
+| ultrasound         | ultrasonic waves at frequencies above the audible range, used in cleaning metallic parts, echo sounding, medical diagnosis and therap | échographie                 |
+| overall            | syn: general, total, global                                                                                                           | global, total               |
+| steep              | syn: sharp                                                                                                                            | raide, escarpé              |
+| harmful            | syn: detrimental                                                                                                                      | nuisible                    |
+| aging              | the process of growing old or developing the appearance and characteristics of old age                                                | vieillissement              |
+| unnecessarily      | syn: needlessly                                                                                                                       | inutilement                 |
+| tracking           | the act or process of following something or someone                                                                                  | suivi                       |
+| hopefully          | syn: probably                                                                                                                         | j'espère que, espèrons que  |
+| awareness          | syn: sensitization                                                                                                                    | sensibilisation             |
+| counseling         | advice offered by social workers, doctors, etc., to help a person solve social or personal problems.                                  | (consultation), conseil     |
+| cut-off            | limit or termination syn                                                                                                              | seuil                       |
+| concern            | something that affects or is of importance to a person; affair; business                                                              | préoccupant                 |
+
+## Analysis about the study 
+* Researchers :
+Analysis by the Graduate School of Public Health at the University of Pittsburgh, whose other principal is Samar El Khoudary, doctor.
+
+* Published in? when:
+
+On the journal Menopause an sciencedaily (03/03/2021)
+
+* General topic:
+
+Accelerated increase in abdominal fat during menopause can lead to heart disease.
+
+* Procedure: what was examined:
+
+   + study based on a quarter century of data on hundreds of women
+   + research shows that it doesn't matter how much fat a woman carries, but what is important is where the fat is located
+   + 362 women were examined, they participated in a SWAN study
+   + visceral adipose tissue measured by CT scan as well as the thickness of the carotid artery wall measured by ultrasound
+   + 20% increase in abdominal fat --> carotid artery wall thickness increases by 2%
+   + two years before menopause abdominal fat starts to accelerate
+   + fat around abdominal organs is linked to increased secretion of toxic molecules that can be harmful to cardiovascular health
+   + accelerated increase in visceral abdominal fat of 8% per year during the menopausal transition 
+   + CT measurement is expensive--> regular waist measurement would be a good way to monitor fat increase
+   + just BMI measurement may miss heart disease
+
+* Conclusions:
+
+   + clear link between abdominal fat growth and risk of cardiovascular disease, can be monitored with a tape measure but may be missed by calculating BMI
+   + more research needed to determine whether diet, exercise or lifestyle interventions are more effective than others
+   + El Khoudary wonders if a specific waist circumference threshold can be caused by heart disease
+
+* Remaining questions:
+
+Nothing
+
+

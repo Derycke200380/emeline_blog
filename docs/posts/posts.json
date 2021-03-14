@@ -1,6 +1,23 @@
 [
   {
     "path": "posts/2021-03-14-mon-article/",
+    "title": "Article 7: Accelerating gains in abdominal fat during menopause tied to heart disease risk.",
+    "description": "My seventh article talks about how increased fat during menopause can lead to heart disease risks .",
+    "author": [
+      {
+        "name": "Emeline Derycke",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-14",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2021-03-14T13:39:31+01:00"
+  },
+  {
+    "path": "posts/2021-03-13-mon-article/",
     "title": "Article 6: Long black, espresso, or latte, whatever your coffee preference, drink too much and you could be in hot water, especially when it comes to heart health.",
     "description": "My sixth article talks about the different types of coffee that have different impacts on cardiovascular disease.",
     "author": [
