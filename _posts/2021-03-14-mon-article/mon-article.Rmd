@@ -1,0 +1,89 @@
+---
+title: "Article 6: Long black, espresso, or latte, whatever your coffee preference, drink too much and you could be in hot water, especially when it comes to heart health."
+description: |
+  My sixth article talks about the different types of coffee that have different impacts on cardiovascular disease.
+author:
+  - name: Emeline Derycke
+date: 03-14-2021
+categories:
+  -"English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## General information 
+
+Source of the article:  [link](https://www.unisa.edu.au/Media-Centre/Releases/2021/deja-brew-another-shot-for-lovers-of-coffee/)
+
+Date: 18/02/2021
+
+Word count: 540
+
+## Vocabulary 
+
+| Word from the text  | Synonym/Definition in English                                                                    | French translation                    |
+| ------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------- |
+| whatever            | syn: whatsoever                                                                                  | quelle qye soit, quoi que             |
+| especially          | syn: particularly, chiefly                                                                       | surtout, notamment, particulièrement  |
+| significantly       | syn: considerably                                                                                | considérablement, sugnificativement   |
+| to heighten         | syn: to raise                                                                                    | accroître                             |
+| importantly         | syn: significantly, dramatically                                                                 | surtout, de façon important           |
+| bitter              | having or denoting an unpalatable harsh taste, as the peel of an orange                          | amer                                  |
+| lover               | syn: passion, passionate                                                                         | amateur                               |
+| according           | syn: in relation                                                                                 | selon                                 |
+| to swallow          | syn: to gulp                                                                                     | avaler                                |
+| widely              | having a great extent from side to side 
+syn: vastly                                             | largement, généralement               |
+| intake              | a thing or a quantity taken in                                                                   | consommation, apport                  |
+| adverse             | syn: negative, unfavorable                                                                       | défavorable, négatif                  |
+| (coffee) beans      | the beanlike seeds of the coffee tree, used to make this beverage                                | des grains de café, haricots, féves   |
+| potent (adj)        | possessing great strength syn powerful                                                           | puissant                              |
+| the compound        | a substance that contains atoms of two or more chemical elements held together by chemical bonds | le composé                            |
+| valuable            | able to be 
+syn: useful                                                                          | utile (précieux)                      |
+| mainly              | syn:primarily, chiefly                                                                           | principalement                        |
+| brew                | syn: beer                                                                                        | dans ce contexte bière                |
+| broad-reaching      | syn: far-reaching                                                                                | vaste, de grande envergure            |
+| carefully           | syn: cautiously                                                                                  | avec soin, soigneusement              |
+| to conduct          | syn: run                                                                                         | effectuer                             |
+| be wary             | characterized by caution or watchfulness                                                         | se méfier                             |
+| overindulging       | to indulge (in something, esp. food or drink) immoderately; binge                                | excès                                 |
+| to overindulge      | syn: to overdo                                                                                   | abuser , exagérer                     |
+| otherwise           | syn: or else                                                                                     | contraire                             |
+
+## Analysis about the study 
+* Researchers :
+
+From the Australian Centre for Precision Health at the University of South Australia. There is one researcher in particular whose first name is mentioned a lot the professor Elina Hyppönen.
+
+* Published in? when:
+
+On the website of the University of South Africa (18/02/2021).
+
+* General topic:
+
+The subject is coffee consumption having an impact on cardiovascular disease.
+
+* Procedure: what was examined:
+
+   + high coffee consumption can increase the concentration of lipids in the blood and increase the risk of cardiovascular disease
+   + examination of genetic and phenotypic associations between coffee consumption and plasma lipid profiles
+   + a lot of lipids in the blood, not good
+   + cafestol present in many things, unfiltered beers, espressos, espresso, etc
+   + no cafestol in filtered and instant coffee --> better to drink it
+
+* Conclusions:
+
+   + important for people with high cholesterol not to drink coffee or to limit its consumption
+   + the coffee-fat ratio depends on the dose: the more coffee you drink, the greater the risk of cardiovascular disease
+   + take filtered coffee and beware of excesses
+
+* Remaining questions:
+
+We could create a new type of coffee without all its dangers.
+
