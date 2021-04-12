@@ -4,7 +4,7 @@ description: |
   My first article about heart diseases.
 author:
   - name: Emeline Derycke
-date: 
+date: 16-10-2020
 categories:
   - "English for Science"
 preview: images/heartdisease.jpg

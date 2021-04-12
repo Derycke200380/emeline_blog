@@ -19,7 +19,7 @@
   {
     "path": "posts/2021-04-12-mon-article/",
     "title": "Introduction",
-    "description": "Short introcution.",
+    "description": "Short introduction.",
     "author": [
       {
         "name": "Emeline Derycke",
@@ -31,7 +31,7 @@
       "English for Science"
     ],
     "preview": {},
-    "last_modified": "2021-04-12T19:11:02+02:00"
+    "last_modified": "2021-04-12T19:32:13+02:00"
   },
   {
     "path": "posts/2021-03-14-mon-article/",
