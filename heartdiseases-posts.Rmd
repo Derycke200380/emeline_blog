@@ -3,6 +3,8 @@ title: "List of heart disease related posts:"
 site: distill::distill_website
 listing: 
   posts:
+    
+    - 2020-04-12-mon-article
     - 2020-10-16-heartdiseases
     - 2020-10-24-test
     - 2020-10-31-mon-article
