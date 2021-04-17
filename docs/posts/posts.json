@@ -13,8 +13,8 @@
     "categories": [
       "English for Science"
     ],
-    "preview": {},
-    "last_modified": "2021-04-17T13:31:38+02:00"
+    "preview": "posts/2020-12-13-mon-article/images/cannulation.jpg",
+    "last_modified": "2021-04-17T13:44:07+02:00"
   },
   {
     "path": "posts/2021-04-17-mon-article/",
@@ -115,8 +115,10 @@
     "categories": [
       "English for Science"
     ],
-    "preview": {},
-    "last_modified": "2021-04-17T13:29:18+02:00"
+    "preview": "posts/2021-03-04-mon-article/images/coeur_dvda.png",
+    "last_modified": "2021-04-17T13:40:55+02:00",
+    "preview_width": 865,
+    "preview_height": 384
   },
   {
     "path": "posts/meal/",

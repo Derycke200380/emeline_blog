@@ -7,6 +7,8 @@ author:
 date: 03-04-2021
 categories:
   - "English for Science"
+preview: images/coeur_dvda.png
+#draft: TRUE
 output:
   distill::distill_article:
     self_contained: false
