@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](image /images.jpeg)
+![](images/coeur_dvda.png)
 
 ## General information 
 
@@ -30,7 +30,7 @@ Word count: 458
 
 | Word from the text             | Synonym/ Definition in English                                                 | French transation                       |
 | ------------------------------ | ------------------------------------------------------------------------------ | --------------------------------------- |
-| arrhythmogenic cardiomyopathy  | a genetic disease                                                              | la  cardiomyopathie arythmogène         |
+| arrhythmogenic cardiomyopathy  | a disease in which heart muscle cells are gradually replaced by fat and fibrous tissue                                                              | la  cardiomyopathie arythmogène         |
 | a scar                         | any mark left in the skin or other tissues following the healing of a wound    | cicatrice                               |
 | behind                         | syn: rear                                                                      | derrière                                |
 | a avenue                       | syn: a track                                                                   | piste                                   |

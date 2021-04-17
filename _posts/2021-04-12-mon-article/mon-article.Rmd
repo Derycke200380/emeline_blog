@@ -20,7 +20,10 @@ knitr::opts_chunk$set(echo = FALSE)
 As part of my English course, I have to do a blog throughout the year.
 I will introduce you in a few words the subject of my blog. It is entitled “heart disease and problems”.
 
+![](images/risques_cardiovasculaires.jpg) 
+
 Why did I choose the heart as my main topic?
+
 
 First of all, it’s one of our most important organs playing one of the most essential roles in the body. This vital organ works like a pump. This pump function is ensured by the two ventricles. By contracting, these ensure the ejection of blood into the arteries. This blood allows the oxygenation of the whole body. 
 Without this heart, the organs would not be able to function, which can cause major problems and even death. 

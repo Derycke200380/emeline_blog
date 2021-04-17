@@ -1,0 +1,26 @@
+---
+title: "Conclusion"
+description: |
+  Short conclusion.
+author:
+  - name: Emeline Derycke
+    url: {}
+date: 04-17-2021
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+ In conclusion, I am happy to have chosen this topic because the heart is an organ that interests me a lot. I was aware of some of the dangers, but for example, I didn't know that the menopause could have a negative effect on cardiovascular disease, or that drinking coffee or sugary drinks has an impact on our heart activity.
+ 
+In general, I enjoyed going to sites to find articles, although it took me quite a while. I was also able to lean some extra words in English regarding the lexical field of heart diseases/problems. 
+So, I hope that you, the people who took the time to look my blog, were able to learn a little more about hearts and heart problems. 
+
+
+

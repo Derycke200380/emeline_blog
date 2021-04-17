@@ -16,6 +16,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![](images/cannulation.jpg)
+
 ## General information 
 
 Source of the article: 
