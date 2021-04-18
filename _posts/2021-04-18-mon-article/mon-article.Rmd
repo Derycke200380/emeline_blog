@@ -1,0 +1,32 @@
+---
+title: "Bibliography"
+description: |
+  
+author:
+  - name: Emeline Derycke
+    url: {}
+date: 04-18-2021
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+* Article 1: European Society of Cardiology 14/10/2020. Risk of heart complications after major surgery is higher than previously thought. [link](https://www.sciencedaily.com/releases/2020/10/201014201017.htm)
+
+* Article 2 :American College of Cardiology 26/10/2020. Artificially sweetened drinks may not be heart healthier than sugary drinks. [link](https://www.sciencedaily.com/releases/2020/10/201026144524.htm)
+
+* Article 3 : European Society of Cardiology 26/08/2020. Spit in a tube to diagnose heart attack. [link](https://www.sciencedaily.com/releases/2020/08/200826083019.htm )
+
+* Article 4 : University of Minnesota 13/11/2020. New cardiac arrest resuscitation treatment demonstrated 100% success rate in cannulation. [link](https://www.sciencedaily.com/releases/2020/11/201113141802.htm)
+
+* Article 5 : Florida state university 17/02/2021. New possibilities to prevent sudden cardiac death. [link](https://news.fsu.edu/news/health-medicine/2021/02/17/fsu-college-of-medicine-researcher-develops-new-possibilities-to-prevent-sudden-cardiac-death/)
+
+* Article 6 : University of South Africa 18/02/2021. Long black, espresso, or latte, whatever your coffee preference, drink too much and you could be in hot water, especially when it comes to heart health. [link](https://www.unisa.edu.au/Media-Centre/Releases/2021/deja-brew-another-shot-for-lovers-of-coffee/)
+
+* Article 7 : University of Pittsburgh 03/03/2021. Accelerating gains in abdominal fat during menopause tied to heart disease risk. [link](https://www.sciencedaily.com/releases/2021/03/210303142436.htm )

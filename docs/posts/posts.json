@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-04-18-mon-article/",
+    "title": "Bibliography",
+    "description": {},
+    "author": [
+      {
+        "name": "Emeline Derycke",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-18",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-18T10:41:51+02:00"
+  },
+  {
     "path": "posts/2020-12-13-mon-article/",
     "title": "Article 4 :New cardiac arrest resuscitation treatment demonstrated 100% success rate in cannulation ",
     "description": "The fourth article talks about a new cardiac arrest resuscitation treatment.",
